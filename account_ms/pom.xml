@@ -14,7 +14,7 @@
 	<name>account_ms</name>
 	<description>Microservice account</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>16</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
